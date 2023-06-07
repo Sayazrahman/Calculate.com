@@ -1,0 +1,58 @@
+.keypad{
+  display: inline-block;
+  background-color: rgb(25, 24, 28);
+  
+  
+}
+.keyboard{
+align-items: center;
+justify-content: space-evenly;
+  height: 3rem;
+  width: 4.15rem;
+  margin: 6px;
+  padding: 2px;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  background-color: rgb(142, 4, 107);
+}
+.keyboard:hover{
+  background-color: rgb(233, 158, 28);
+  
+}
+.mainbody{
+  
+  border-radius: 5px;
+}
+.screen{
+  text-align: center;
+  background-color: rgb(33, 30, 30);
+  display: flex;
+  height: 10rem;
+  width: 19.9rem;
+  border: 0px;
+  border-radius: 15px;
+  font-size: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  color:rgb(255, 255, 255);
+
+
+}
+
+
+.expression{
+  align-items: center;
+justify-content: space-evenly;
+  height: 3rem;
+  width: 4.15rem;
+  margin: 6px;
+  padding: 2px;
+  border: 0px;
+  border-radius: 3px;
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  background-color: rgb(247, 250, 135);
+}
